@@ -1,4 +1,15 @@
-content
-=======
+#Content
 
-A place for content (articles, tutorials, blog posts, etc.) to be written and revised.
+##Drafts For Review
+Write your articles as markdown files in the Drafts for Review folder. People can review, revise, and provide feedback on these articles.
+
+##Final
+Once an article is finished, move it to the Final folder in the correct sub-folder.
+
+**Blog Posts**-for the YCS blog at blog.ycs.io
+
+**Tutorials**-content that takes the form of a walkthrough or tutorial
+
+**Interviews**-interviews
+
+**Articles**-for all other types of articles
