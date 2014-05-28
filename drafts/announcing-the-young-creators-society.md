@@ -12,7 +12,7 @@ The one feature that I am most excited about is Interviews. We will be interview
 
 ###But wait, there’s more!
 
-![More!?](https://d262ilb51hltx0.cloudfront.net/max/800/1*foPUJKcna0AorbAkfTwc8A.gif "More!?")
+![More!?](http://i.imgur.com/os9QT9G.gif "More!?")
 
 In addition to showering our users with high-quality content and interviews, we will also be creating a community side to the site. This will take the form of a message board/forum, a place where users can communicate with one another. Users will be able to get feedback, collaborate on projects, and discuss our craft and the things we all have in common.
 
