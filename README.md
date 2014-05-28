@@ -1,6 +1,6 @@
 #Content
 
-##Drafts For Review
+##Drafts (for review)
 Write your articles as markdown files in the Drafts for Review folder. People can review, revise, and provide feedback on these articles.
 
 ##Ready to Publish
